@@ -1,6 +1,6 @@
 # RISC-V Processor Project Report
 
-Welcome to my **RISC-V Processor Project Report**!  
+Welcome to the **RISC-V Processor Project Report**!  
 This repository contains the documentation and analysis of my custom implementation of a RISC-V processor.
 
 ---
